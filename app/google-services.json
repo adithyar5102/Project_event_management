@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338617263583",
+    "project_id": "revaevent-a1dce",
+    "storage_bucket": "revaevent-a1dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338617263583:android:6a11a86d481d836599906a",
+        "android_client_info": {
+          "package_name": "com.example.revaevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338617263583-agutm1eq6cqk6fnjkqvp0gbmfbn2cbjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpvTFkUk1KAkF7gn6qhzL0UEAl9GOQE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338617263583-agutm1eq6cqk6fnjkqvp0gbmfbn2cbjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

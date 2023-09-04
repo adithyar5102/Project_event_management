@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RevaEvent</string>
+    <string name="login">Login</string>
+    <string name="login_msg">Please sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="signup_acc">Already hava an account?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="please_enter_your_details">Please enter your details</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="branch">Branch</string>
+    <string name="ongoing_events">Ongoing Events</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="registered_events">Registered events</string>
+    <string name="event">Event</string>
+    <string name="semester">Semester</string>
+    <string name="registered">Registered</string>
+    <string name="profile">Profile\n</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="personal_email_id">Personal Email-id</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
